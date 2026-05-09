@@ -86,7 +86,7 @@ MRCL-ELM/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ashik123-bd/MRCL-ELM.git
+   git clone https://github.com/rashelmahmudrabbi/MRCL-ELM.git
    cd MRCL-ELM
    ```
 
